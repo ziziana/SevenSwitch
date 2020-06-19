@@ -27,5 +27,6 @@
     "UIKit",
     "QuartzCore"
   ],
-  "requires_arc": true
+  "requires_arc": true,
+  "swift_version": "5.0"
 }
